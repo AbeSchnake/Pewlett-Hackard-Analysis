@@ -11,7 +11,7 @@ This analysis was performed in order to gather information about and prepare for
 * A table showing the count of retiring employees for each job title was generated, which is shown below in its entirety
 ![RETIRING_TITLES](https://github.com/AbeSchnake/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png)
 * A table showing eligibility for a mentorship program, meant to retain some of the experience and expertise that could otherwise be lost in the SIlver Tsunami, was generated, part of which is shown below
-MENTORSHIP_ELIGIBILITY
+![MENTORSHIP_ELIGIBILITY](https://github.com/AbeSchnake/Pewlett-Hackard-Analysis/blob/main/Images/mentorship_eligibility.png)
 
 ## Summary
 In order to replace the full workforce that will be lost in the Silver Tsunami, 25,916 Senior Engineers, 24,926 Senior Staff, 9,285 Engineers, 7,636 Staff, 3,603 Technique Leaders, 1,090 Assistant Engineers, and 2 Managers will need to be hired over the next 3 years, making the total number of new employees needed 72,458. This is a significant number, and additional recruitment efforts should begin immediately in order to have these employees onboarded and trained.
