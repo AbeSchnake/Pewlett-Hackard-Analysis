@@ -5,7 +5,7 @@ This analysis was performed in order to gather information about and prepare for
 
 ## Results
 * A table showing every title that any retiring employee has ever held was generated, part of which is shown below.
-RETIREMENT_TITLES
+[RETIREMENT_TITLES](https://github.com/AbeSchnake/Pewlett-Hackard-Analysis/blob/main/Images/retirement_titles.png)
 * A table showing only the most recent title held by each retiring employee was generated, part of which is shown below.
 UNIQUE_TITLES
 * A table showing the count of retiring employees for each job title was generated, which is shown below in its entirety
