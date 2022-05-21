@@ -9,7 +9,7 @@ This analysis was performed in order to gather information about and prepare for
 * A table showing only the most recent title held by each retiring employee was generated, part of which is shown below.
 ![UNIQUE_TITLES](https://github.com/AbeSchnake/Pewlett-Hackard-Analysis/blob/main/Images/unique_titles.png)
 * A table showing the count of retiring employees for each job title was generated, which is shown below in its entirety
-RETIRING_TITLES
+![RETIRING_TITLES](https://github.com/AbeSchnake/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png)
 * A table showing eligibility for a mentorship program, meant to retain some of the experience and expertise that could otherwise be lost in the SIlver Tsunami, was generated, part of which is shown below
 MENTORSHIP_ELIGIBILITY
 
